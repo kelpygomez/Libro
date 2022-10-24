@@ -17,7 +17,7 @@
 ### Tarea 1
 En el primer ejercicio he mostrado el historial de cambios del repositorio, he creado una carpeta llamada 'Capítulos' con el fichero 'Capitulo1.txt' dentro de ella, el cual lleva un texto escrito. Luego he añadido todos los cambios a la zona de intercambio temporal y he realizado el commit. Finalmente, he vuelto a mostrar el historial de cambios.
 
-![<RESULTADO>](<>)
+![<RESULTADO>](<imagen1.png>)
 
 ### Tarea 2
 En el segundo ejercicio, he creado el fichero 'Capitulo2.txt' con su respectivo texto dentro, he añadido los cambios a la zona de intercambio temporal, he realizado el commit y he mostrado las diferencias entre la última versión y las dos versiones anteriores (git diff HEAD~2..HEAD).
