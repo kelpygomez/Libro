@@ -17,22 +17,25 @@
 ### Tarea 1
 En el primer ejercicio he mostrado el historial de cambios del repositorio, he creado una carpeta llamada 'Capítulos' con el fichero 'Capitulo1.txt' dentro de ella, el cual lleva un texto escrito. Luego he añadido todos los cambios a la zona de intercambio temporal y he realizado el commit. Finalmente, he vuelto a mostrar el historial de cambios.
 
-![<RESULTADO>](<imagen1.png>)
+![RESULTADO](https://github.com/kelpygomez/Libro/blob/main/TareaGit/img/imagen1.png)
+![RESULTADO](https://github.com/kelpygomez/Libro/blob/main/TareaGit/img/imagen2.png)
 
 ### Tarea 2
 En el segundo ejercicio, he creado el fichero 'Capitulo2.txt' con su respectivo texto dentro, he añadido los cambios a la zona de intercambio temporal, he realizado el commit y he mostrado las diferencias entre la última versión y las dos versiones anteriores (git diff HEAD~2..HEAD).
 
-![<RESULTADO>](<>)
+![RESULTADO](https://github.com/kelpygomez/Libro/blob/main/TareaGit/img/imagen3ej2.png)
 
 ### Tarea 3
 En el tercer ejercicio, he creado el fichero 'Capitulo3.txt' con su respectivo texto dentro, he añadido los cambios a la zona de intercambio temporal, he realizado el commit y he mostrado las diferencias entre la primera y última versión del repositorio (git diff 'hash del primer commit'..HEAD).
 
-![<RESULTADO>](<>)
+![RESULTADO](https://github.com/kelpygomez/Libro/blob/main/TareaGit/img/imagen4ej3(1).png)
+![RESULTADO](https://github.com/kelpygomez/Libro/blob/main/TareaGit/img/imagen5ej3(2).png)
+![RESULTADO](https://github.com/kelpygomez/Libro/blob/main/TareaGit/img/imagen6ej3(3).png)
 
 ### Tarea 4
 En el ejercicio 4, he creado el fichero 'indice.txt' con texto dentro, he añadido los cambios a la zona de intercambio temporal, he realizado el commit y he ejecutado un comando que te muestra únicamente el autor de los cambios.
 
-![<RESULTADO>](<>)
+![RESULTADO](https://github.com/kelpygomez/Libro/blob/main/TareaGit/img/imagen6ej3(3).png)
 
 ### Tarea 5
 En  el quinto ejercicio he creado una nueva rama llamadam 'bibliografía' y he mostrado todas las ramas del repositorio.
